@@ -1,1 +1,1 @@
-# Algoritma---Pemograman
+# Algoritma-Pemograman
