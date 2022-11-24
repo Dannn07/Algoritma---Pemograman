@@ -1,4 +1,4 @@
-public class Floating {
+public class integer {
 public static void main(String[] args) {
 float short_pi = 3.14f;
 double long_pi = 3.141592653589793d;
